@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Content", "Content\Content.contentproj", "{E445E6E4-67DC-41B0-805D-FD54BE90B8C9}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Game", "Game\Game.fsproj", "{EE192D92-FA2F-4A96-A905-6ED56681B598}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameHost", "GameHost\GameHost.csproj", "{3B55A79A-98A6-432D-945B-F2C4FFDD40EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E445E6E4-67DC-41B0-805D-FD54BE90B8C9}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{E445E6E4-67DC-41B0-805D-FD54BE90B8C9}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{EE192D92-FA2F-4A96-A905-6ED56681B598}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{EE192D92-FA2F-4A96-A905-6ED56681B598}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{EE192D92-FA2F-4A96-A905-6ED56681B598}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{EE192D92-FA2F-4A96-A905-6ED56681B598}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{3B55A79A-98A6-432D-945B-F2C4FFDD40EF}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{3B55A79A-98A6-432D-945B-F2C4FFDD40EF}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{3B55A79A-98A6-432D-945B-F2C4FFDD40EF}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{3B55A79A-98A6-432D-945B-F2C4FFDD40EF}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{3B55A79A-98A6-432D-945B-F2C4FFDD40EF}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{3B55A79A-98A6-432D-945B-F2C4FFDD40EF}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
